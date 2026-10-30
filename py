@@ -67,5 +67,4 @@ else:
 
 # TODO: Print result
 if result is not None:
-    print(f"Result: {result}")4
-    
+    print(f"Result: {result}")
